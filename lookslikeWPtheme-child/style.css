@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/*
+Theme Name: lookslikeWPtheme Child
+Author: LOOKSLIKE.PL SP. Z O.O.
+Author URI: https://lookslike.pl
+Requires at least: 4.9.6
+Template: lookslikeWPtheme
+Requires PHP: 7.+
+Version: 1.0
+License: © All rigths Reserved
+Text Domain: lookslikechild
+*/
+footer .columnsRight a {line-height: 35px}
+.headingHero .OfertaHeader p {font-size: 2.5em;color: #4a4a4a;margin-top: 0;}
+.headerFront h1.bigTitle {margin-bottom: 0}
+
+@media(max-width:480px) {
+  .headerFront .headingHero h1.bigTitle {font-size: 2em;}
+  .headingHero .OfertaHeader p {font-size: 1.5em}
+}

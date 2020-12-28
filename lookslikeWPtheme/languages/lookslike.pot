@@ -1,0 +1,244 @@
+# Copyright (C) 2020 lookslike
+# This file is distributed under the same license as the lookslike package.
+msgid ""
+msgstr ""
+"Project-Id-Version: lookslike\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: archive-oferta.php:3, templates/template-oferta.php:3
+msgid "Oferta"
+msgstr ""
+
+#: archive-oferta.php:17, category.php:11, home.php:11, page.php:17, single-oferta.php:17, single.php:18
+msgid "Kategoria: "
+msgstr ""
+
+#: archive-oferta.php:23, page.php:23, single-oferta.php:23, single.php:24, template-parts/headers/header-contact.php:143, template-parts/headers/header-contact.php:144
+msgid "Blog"
+msgstr ""
+
+#: archive-oferta.php:49
+msgid "Zobacz ofertę"
+msgstr ""
+
+#: category.php:17, functions.php:384, functions.php:396, home.php:17
+msgid "Aktualności"
+msgstr ""
+
+#: category.php:47, category.php:72, home.php:47, home.php:72
+msgid "Opublikowano:"
+msgstr ""
+
+#: category.php:51, category.php:76, home.php:51, home.php:76
+msgid "przez:"
+msgstr ""
+
+#: category.php:59, category.php:84, front-page.php:99, home.php:59, home.php:84
+msgid "Czytaj więcej"
+msgstr ""
+
+#: category.php:99, home.php:99, single.php:41
+msgid "Najnowsze aktualności"
+msgstr ""
+
+#: category.php:110, home.php:110, single.php:52
+msgid "Kategorie"
+msgstr ""
+
+#: category.php:116, home.php:116, single.php:58
+msgid "Polub nas na facebooku"
+msgstr ""
+
+#: footer.php:7
+msgid "Oferta WISTAL"
+msgstr ""
+
+#: footer.php:28
+msgid "Siedziba firmy"
+msgstr ""
+
+#: footer.php:36
+msgid "Numer telefonu"
+msgstr ""
+
+#: footer.php:43
+msgid "Adres E-mail"
+msgstr ""
+
+#: footer.php:50
+msgid " Crafted by"
+msgstr ""
+
+#: functions.php:38
+msgid "Desktop Horizontal Menu"
+msgstr ""
+
+#: functions.php:39
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:40
+msgid "Górna belka"
+msgstr ""
+
+#: functions.php:41
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:163
+msgid "Twoje imię i nazwisko / Firma"
+msgstr ""
+
+#: functions.php:169, functions.php:622, template-parts/headers/header-contact.php:175
+msgid "Adres e-mail"
+msgstr ""
+
+#: functions.php:175, functions.php:625, template-parts/headers/header-contact.php:181
+msgid "Telefon"
+msgstr ""
+
+#: functions.php:178, functions.php:628, template-parts/headers/header-contact.php:190
+msgid "Wiadomość"
+msgstr ""
+
+#: functions.php:185, functions.php:632, template-parts/headers/header-contact.php:197
+msgid "Wyślij"
+msgstr ""
+
+#: functions.php:189, functions.php:640
+msgid "Rodo"
+msgstr ""
+
+#: functions.php:205, template-parts/headers/header-contact.php:209
+msgid "Nie jesteś człowiekiem"
+msgstr ""
+
+#: functions.php:212, template-parts/headers/header-contact.php:216
+msgid "Dziękujemy, email został pomyślnie przesłany"
+msgstr ""
+
+#: functions.php:219, template-parts/headers/header-contact.php:223
+msgid "Przepraszamy, wystąpił błąd"
+msgstr ""
+
+#: functions.php:409, functions.php:411, functions.php:413
+msgid "%s"
+msgstr ""
+
+#: functions.php:411
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: functions.php:413
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: functions.php:474
+msgid "WYŚLIJ ZAPYTANIE"
+msgstr ""
+
+#: functions.php:475
+msgid "ZADZWOŃ"
+msgstr ""
+
+#: functions.php:619
+msgid "Twoje imię i nazwisko"
+msgstr ""
+
+#: header.php:31
+msgid "Zapytanie ofertowe"
+msgstr ""
+
+#: header.php:53
+msgid "Strona na której jesteś, została usunięta, jej nazwa została zmieniona lub jest tymczasowo niedostępna."
+msgstr ""
+
+#: header.php:54
+msgid "WRÓĆ NA STRONĘ GŁÓWNĄ"
+msgstr ""
+
+#: single-oferta.php:39
+msgid "Rodzaj"
+msgstr ""
+
+#: single-oferta.php:40
+msgid "Grubość (mm)"
+msgstr ""
+
+#: single-oferta.php:60
+msgid "Inne z naszej oferty"
+msgstr ""
+
+#: templates/template-kontakt.php:3
+msgid "Kontakt"
+msgstr ""
+
+#: templates/template-onas.php:3
+msgid "O nas"
+msgstr ""
+
+#: templates/template-portfolio.php:3
+msgid "Portfolio"
+msgstr ""
+
+#: template-parts/headers/header-contact.php:122
+msgid "Gotowy do stworzenia"
+msgstr ""
+
+#: template-parts/headers/header-contact.php:122
+msgid "projektu"
+msgstr ""
+
+#: template-parts/headers/header-contact.php:122
+msgid "razem?"
+msgstr ""
+
+#: template-parts/headers/header-contact.php:131, template-parts/headers/header-contact.php:132
+msgid "Strona wizytówka"
+msgstr ""
+
+#: template-parts/headers/header-contact.php:135, template-parts/headers/header-contact.php:136
+msgid "Sklep internetowy"
+msgstr ""
+
+#: template-parts/headers/header-contact.php:139, template-parts/headers/header-contact.php:140
+msgid "Strona dla developera"
+msgstr ""
+
+#: template-parts/headers/header-contact.php:147, template-parts/headers/header-contact.php:148
+msgid "Pozycjonowanie"
+msgstr ""
+
+#: template-parts/headers/header-contact.php:151, template-parts/headers/header-contact.php:152
+msgid "Logo"
+msgstr ""
+
+#: template-parts/headers/header-contact.php:155, template-parts/headers/header-contact.php:156
+msgid "Identyfikacja"
+msgstr ""
+
+#: template-parts/headers/header-contact.php:159, template-parts/headers/header-contact.php:160
+msgid "Inne"
+msgstr ""
+
+#: template-parts/headers/header-contact.php:169
+msgid "Twoje imię"
+msgstr ""
+
+#: template-parts/headers/header-contact.php:187
+msgid "Nazwa firmy"
+msgstr ""
+
+#: template-parts/headers/header-front.php:26
+msgid "PRZEJDŹ NA DÓŁ"
+msgstr ""
